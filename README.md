@@ -2,6 +2,6 @@
 Test of arrows pointing to cursor
 
 # Ketbinds
-``t``: toggle triangles
-``r``: remove all pointers
-``left click``: place pointer
+ - ``t``: toggle triangles
+ - ``r``: remove all pointers
+ - ``left click``: place pointer
